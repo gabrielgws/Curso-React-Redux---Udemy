@@ -5,7 +5,7 @@
 
 ### Preparado para uma experiência que pode mudar a minha vida ! Então vamos lá! 🔥 🚀
 
-### O que você aprenderá:
+### O que você aprenderá: :books:	
 :heavy_check_mark: Configurar uma aplicação com Webpack :heavy_check_mark: Criar componentes em React
 :heavy_check_mark: Integrar o Redux em uma aplicação React :heavy_check_mark: Desenvolver uma aplicação do zero com React/Redux
 :heavy_check_mark: Desenvolver uma aplicação full-stack em Javascript :heavy_check_mark:Aplicar boas práticas de desenvolvimento
