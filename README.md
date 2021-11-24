@@ -45,32 +45,32 @@ Tenho certeza que esse curso te dará uma visão bastante robusta sobre desenvol
 
 ### - ✅ Aplicação Final - Ciclos de Pagamentos (Backend)
 
-### - ✅ Aplicação Final - Ciclos de Pagamentos (Frontend)
+### - ▪️▪️▪️ Aplicação Final - Ciclos de Pagamentos (Frontend)
 
-### - ✅ Aplicação Final - Atualizando as Bibliotecas
+### - ▪️▪️▪️ Aplicação Final - Atualizando as Bibliotecas
 
-### - ✅ Deploy Heroku
+### - ▪️▪️▪️ Deploy Heroku
 
-### - ✅ **Bônus**: Exercícios MongoDB
+### - ▪️▪️▪️ **Bônus**: Exercícios MongoDB
 
-### - ✅ **Bônus**: Exercícios Express
+### - ▪️▪️▪️ **Bônus**: Exercícios Express
 
-### - ✅ Novas Aulas!
+### - ▪️▪️▪️ Novas Aulas!
 
-### - ✅ Webpack 4
+### - ▪️▪️▪️ Webpack 4
 
-### - ✅ React 16.4
+### - ▪️▪️▪️ React 16.4
 
-### - ✅ Projeto Cadastro de Usuário
+### - ▪️▪️▪️ Projeto Cadastro de Usuário
 
-### - ✅ Bônus: JavaScript Essencial
+### - ▪️▪️▪️ Bônus: JavaScript Essencial
 
-### - ✅ **Extra** CSS
+### - ▪️▪️▪️ **Extra** CSS
 
-### - ✅ Webpack [Legado]
+### - ▪️▪️▪️ Webpack [Legado]
 
-### - ✅ React [Legado]
+### - ▪️▪️▪️ React [Legado]
 
-### - ✅ Fundamentos React [ Legado ]
+### - ▪️▪️▪️ Fundamentos React [ Legado ]
 
-### - ✅ React com Redux [ Legado ]
+### - ▪️▪️▪️ React com Redux [ Legado ]
