@@ -75,5 +75,5 @@ Tenho certeza que esse curso te dará uma visão bastante robusta sobre desenvol
 
 ### - ✅ React com Redux [ Legado ]
 
-# Certificado
-<img src="https://github.com/gabrielgws/Curso-React-Redux---Udemy/blob/main/Certificado/Certificado%20React%20%2B%20Redux%20-%20Udemy.png" alt="Certificado" />
+# Certificado 📄
+<img src="https://github.com/gabrielgws/Curso-React-Redux---Udemy/blob/main/Certificado/Certificado%20React%20%2B%20Redux%20-%20Udemy.jpg" alt="Certificado" />
